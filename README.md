@@ -6,7 +6,10 @@
 
 
 My Name is Chris Atwood. I have completed the data science bootcamp program at Springboard - The University of North Florida. I have created this giuthub repository to keep all the projects that I complete in my coursework. Thank you for taking a look.
-Libraries
+
+
+
+Libraries:
 NumPy, Pandas, Matplotlib, seaborn, scikit-learn, statsmodel, scipy, PyTorch, Tweepy, Requests, json, BeautifulSoup, NLT
 
 
